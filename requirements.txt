@@ -1,0 +1,3 @@
+google-api-python-client==1.6.5
+httplib2==0.10.3
+pyOpenSSL==17.5.0
